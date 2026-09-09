@@ -1,70 +1,61 @@
 # Borbás György Kristóf
 
-**Cloud & Systems Engineer | Infrastructure as Code | Automation**
+**Cloud & Systems Engineer | Infrastructure as Code | Automatizáció**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-borbas--gyorgy--kristof.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://borbas-gyorgy-kristof.vercel.app/)
+[![Portfólió](https://img.shields.io/badge/Portfólió-borbas--gyorgy--kristof.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://borbas-gyorgy-kristof.vercel.app/)
 [![AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://borbas-gyorgy-kristof.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Contact-borbas.gyorgy.kristof%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:borbas.gyorgy.kristof@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Kapcsolat-borbas.gyorgy.kristof%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:borbas.gyorgy.kristof@gmail.com)
 
 ---
 
-### Overview
+### Áttekintés
 
-Mérnökinformatikus hallgató (Óbudai Egyetem) és Cloud System Engineer gyakornok (Abesse Zrt.). Fókuszterületem a Microsoft Azure környezetek tervezése és üzemeltetése deklaratív IaC eszközökkel, CI/CD automatizációk kialakítása, valamint háttér- és diagnosztikai rendszerek fejlesztése.
+Mérnökinformatikus hallgató vagyok az Óbudai Egyetemen. Korábban Cloud System Engineer gyakornokként szereztem szakmai tapasztalatot az Abesse Zrt.-nél vállalati Microsoft Azure felhőkörnyezetek üzemeltetésében és automatizációjában. Fókuszterületem a felhőalapú architektúrák tervezése deklaratív IaC eszközökkel, CI/CD folyamatok kialakítása, valamint háttér- és rendszerautomatizációs megoldások fejlesztése.
 
-- **Stack fókusz:** Azure Architecture, Infrastructure as Code, CI/CD Automation, Backend Utilities
-- **Célpozíciók:** Junior / Medior Cloud Engineer, DevOps Engineer, Systems Engineer
-- **Portfólió & Terminál:** [borbas-gyorgy-kristof.vercel.app](https://borbas-gyorgy-kristof.vercel.app/)
+- **Fókuszterületek:** Azure Architektúra, Infrastructure as Code, CI/CD Folyamatok, Rendszerautomatizáció
+- **Célpozíciók:** Cloud Engineer Gyakornok / Intern, DevOps Gyakornok / Intern, Rendszermérnök Gyakornok
+- **Portfólió:** [borbas-gyorgy-kristof.vercel.app](https://borbas-gyorgy-kristof.vercel.app/)
 
 ---
 
-### Tech Stack
+### Technológiai Ismeretek
 
-| Kategória | Technológiák & Eszközök |
+| Terület | Eszközök & Technológiák |
 | :--- | :--- |
 | **Cloud & IaC** | Microsoft Azure, Azure Bicep, Terraform, GitHub Actions, Docker, Hyper-V |
-| **Automation & Scripting** | PowerShell, Python, Bash, Microsoft Graph API |
-| **Languages & Core** | C#, .NET, Python, REST APIs, WebSockets |
-| **Infrastructure & Security** | Networking (VLAN, Subnetting, IPv6), Intune, Defender for Cloud |
+| **Automatizáció & Scripting** | PowerShell, Python, Bash, Microsoft Graph API |
+| **Fejlesztés & Backend** | C#, .NET, Python, REST API-k, WebSockets |
+| **Hálózat & Biztonság** | Hálózati alapismeretek (VLAN, Alhálózatok, IPv6), Intune, Defender for Cloud |
 
 ---
 
-### Key Projects & Architecture
+### Kiemelt Projektek
 
 #### [Azure High-Availability PaaS Architecture](https://github.com/Gyuri125)
-*Diplomamunka / Enterprise Cloud Solution*
+*Szakdolgozat*
 - Magas rendelkezésre állású, több régiós és zónaredundáns Azure felhőkörnyezet tervezése.
 - Moduláris infrastruktúra-kódolás **Azure Bicep** és **Terraform** alapokon.
 - End-to-end **GitHub Actions** CI/CD pipeline környezetautomatizációval és DevSecOps ellenőrzésekkel.
 
-#### [WebDrop – Local Network File & Clipboard Sync](https://github.com/Gyuri125)
-*Python Full-Stack & Networking Utility*
+#### [WebDrop – Helyi Hálózati Fájl- és Vágólap-szinkronizáció](https://github.com/Gyuri125)
+*Hálózati segédprogram & Backend*
 - Eszközfüggetlen, helyi hálózati adatmegosztó és vágólap-szinkronizációs motor.
-- Aszinkron **WebSocket** protokoll valós idejű szövegátvitelhez és dinamikus in-memory ZIP csomagolás.
+- Aszinkron **WebSocket** kapcsolat valós idejű adatátvitelhez és dinamikus in-memory ZIP tömörítés.
 
-#### [Plex AI Subtitle Generator](https://github.com/Gyuri125/plex-ai-subtitler)
-*Media Automation & Applied AI*
-- FFmpeg-alapú stream audio-extrakció és helyi **OpenAI Whisper** beszédfelismerő modell integráció.
-- Kötegelt feldolgozás médiatárakhoz automatizált időkód- és `.srt` generálással.
+#### [Plex AI Felirat Generáló](https://github.com/Gyuri125/plex-ai-subtitler)
+*Média-automatizáció & Alkalmazott AI*
+- FFmpeg-alapú hangsáv-extrakció és helyi **OpenAI Whisper** beszédfelismerő modell integráció.
+- Kötegelt könyvtárfeldolgozás automatikus feliratidőzítéssel és `.srt` generálással.
 
-#### [OBD-II Vehicle Diagnostics & Telemetry](https://github.com/Gyuri125/obd2-diagnostics-tool)
-*Automotive Engineering & Serial Communication*
+#### [OBD-II Gépjármű Diagnosztika & Telemetria](https://github.com/Gyuri125/obd2-diagnostics-tool)
+*Járműdiagnosztika & Soros Portos Kommunikáció*
 - SAE J1979 / ELM327 protokollkezelés valós idejű telemetria-olvasással és DTC hibakód-menedzsmenttel.
-- Beépített hardvermentes szimulációs (Mock) réteg az azonnali kipróbálhatóságért.
+- Beépített szoftveres szimulációs (Mock) réteg az azonnali kipróbálhatóságért fizikai interfész nélkül.
 
 ---
 
-### Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gyuri125&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuri125&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### Contact
-- Web: [borbas-gyorgy-kristof.vercel.app](https://borbas-gyorgy-kristof.vercel.app/)
+### Kapcsolat
+- Portfólió: [borbas-gyorgy-kristof.vercel.app](https://borbas-gyorgy-kristof.vercel.app/)
 - LinkedIn: [linkedin.com/in/borbas-gyorgy-kristof](https://www.linkedin.com)
 - Email: [borbas.gyorgy.kristof@gmail.com](mailto:borbas.gyorgy.kristof@gmail.com)
