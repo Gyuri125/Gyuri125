@@ -1,6 +1,6 @@
 # Borbás György Kristóf
 
-**Cloud & Systems Engineer | Infrastructure as Code | Automatizáció**
+**Rendszermérnök & Cloud Gyakornok | Hálózat & Virtualizáció | Automatizáció**
 
 [![Portfólió](https://img.shields.io/badge/Portfólió-borbas--gyorgy--kristof.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://borbas-gyorgy-kristof.vercel.app/)
 [![AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://borbas-gyorgy-kristof.vercel.app/)
@@ -11,10 +11,12 @@
 
 ### Áttekintés
 
-Mérnökinformatikus hallgató vagyok az Óbudai Egyetemen. Korábban Cloud System Engineer gyakornokként szereztem szakmai tapasztalatot az Abesse Zrt.-nél vállalati Microsoft Azure felhőkörnyezetek üzemeltetésében és automatizációjában. Fókuszterületem a felhőalapú architektúrák tervezése deklaratív IaC eszközökkel, CI/CD folyamatok kialakítása, valamint háttér- és rendszerautomatizációs megoldások fejlesztése.
+Mérnökinformatikus hallgató vagyok az Óbudai Egyetemen. Korábban Cloud System Engineer gyakornokként szereztem szakmai tapasztalatot az Abesse Zrt.-nél vállalati Microsoft Azure felhőkörnyezetek üzemeltetésében, M365 adminisztrációban és PowerShell alapú feladat-automatizálásban. 
 
-- **Fókuszterületek:** Azure Architektúra, Infrastructure as Code, CI/CD Folyamatok, Rendszerautomatizáció
-- **Célpozíciók:** Cloud Engineer Gyakornok / Intern, DevOps Gyakornok / Intern, Rendszermérnök Gyakornok
+Gyakorlati tapasztalattal rendelkezem helyi hálózati architektúrák (Cisco routing, OSPF, tűzfalak) konfigurálásában és virtualizációs környezetek (Hyper-V, VMware, VirtualBox) menedzselésében. Szoftveres téren Python, C#, .NET MAUI és C nyelveken készítek segédprogramokat és automatizációkat. A felhős infrastruktúra-kódolást (IaC) és a CI/CD folyamatokat mélyebben a szakdolgozati kutatásomban dolgoztam fel.
+
+- **Fókuszterületek:** Rendszerüzemeltetés, Hálózatok & Tűzfalak, Virtualizáció, Rendszerautomatizáció
+- **Célpozíciók:** Rendszermérnök Gyakornok / Intern, Cloud Engineer Gyakornok / Intern, DevOps / IT Üzemeltető Gyakornok
 - **Portfólió:** [borbas-gyorgy-kristof.vercel.app](https://borbas-gyorgy-kristof.vercel.app/)
 
 ---
@@ -23,10 +25,10 @@ Mérnökinformatikus hallgató vagyok az Óbudai Egyetemen. Korábban Cloud Syst
 
 | Terület | Eszközök & Technológiák |
 | :--- | :--- |
-| **Cloud & IaC** | Microsoft Azure, Azure Bicep, Terraform, GitHub Actions, Docker, Hyper-V |
+| **Hálózat & Biztonság** | Cisco (összetett routing, OSPF, VLAN, IPv6, alhálózatok), OPNsense, IPFire, Intune, Defender for Cloud |
+| **Virtualizáció & Felhő** | Hyper-V, VMware, VirtualBox, OpenStack (egyetemi fókusz), Microsoft Azure, Docker |
 | **Automatizáció & Scripting** | PowerShell, Python, Bash, Microsoft Graph API |
-| **Fejlesztés & Backend** | C#, .NET, Python, REST API-k, WebSockets |
-| **Hálózat & Biztonság** | Hálózati alapismeretek (VLAN, Alhálózatok, IPv6), Intune, Defender for Cloud |
+| **Programozási nyelvek & Keretrendszerek** | C, C#, .NET, .NET MAUI, REST API-k, WebSockets |
 
 ---
 
@@ -49,9 +51,9 @@ Mérnökinformatikus hallgató vagyok az Óbudai Egyetemen. Korábban Cloud Syst
 - Kötegelt könyvtárfeldolgozás automatikus feliratidőzítéssel és `.srt` generálással.
 
 #### [OBD-II Gépjármű Diagnosztika & Telemetria](https://github.com/Gyuri125/obd2-diagnostics-tool)
-*Járműdiagnosztika & Soros Portos Kommunikáció*
+*Járműdiagnosztika & Hardverközeli / Soros Portos Kommunikáció*
 - SAE J1979 / ELM327 protokollkezelés valós idejű telemetria-olvasással és DTC hibakód-menedzsmenttel.
-- Beépített szoftveres szimulációs (Mock) réteg az azonnali kipróbálhatóságért fizikai interfész nélkül.
+- Beépített szoftveres szimulációs (Mock) réteg az azonnali tesztelhetőségért fizikai járműinterfész nélkül.
 
 ---
 
